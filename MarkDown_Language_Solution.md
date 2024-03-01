@@ -51,3 +51,4 @@ ls -ahli
 И находится она вот по этой ссылочке: [https://docs.microsoft.com/ru-ru/contribute/markdown-reference](https://docs.microsoft.com/ru-ru/contribute/markdown-reference "Официальный справочник по MarkDown от Microsoft").
 
 *И учитесь правильно гуглить! :)*
+*А лучше пользуйтесь DuckDuckGo...*
