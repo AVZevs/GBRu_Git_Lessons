@@ -50,4 +50,6 @@ ls -ahli
 Существует и официальная инструкция по MarkDown.
 И находится она вот по этой ссылочке: [https://docs.microsoft.com/ru-ru/contribute/markdown-reference](https://docs.microsoft.com/ru-ru/contribute/markdown-reference "Официальный справочник по MarkDown от Microsoft").
 
-*И учитесь правильно гуглить! :)*
+*Используйте поисковики только российского производителя! :)*
+
+**Большой брат следит за тобой!**
